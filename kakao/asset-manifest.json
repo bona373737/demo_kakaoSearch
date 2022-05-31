@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/demo/kakao/static/js/main.be57464c.js",
-    "index.html": "/demo/kakao/index.html",
-    "main.be57464c.js.map": "/demo/kakao/static/js/main.be57464c.js.map"
+    "main.js": "/demo_kakaoSearch/kakao/static/js/main.b8500beb.js",
+    "index.html": "/demo_kakaoSearch/kakao/index.html",
+    "main.b8500beb.js.map": "/demo_kakaoSearch/kakao/static/js/main.b8500beb.js.map"
   },
   "entrypoints": [
-    "static/js/main.be57464c.js"
+    "static/js/main.b8500beb.js"
   ]
 }
