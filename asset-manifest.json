@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/demo/kakao/static/js/main.be57464c.js",
+    "index.html": "/demo/kakao/index.html",
+    "main.be57464c.js.map": "/demo/kakao/static/js/main.be57464c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.be57464c.js"
+  ]
+}
